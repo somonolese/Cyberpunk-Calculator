@@ -19,7 +19,7 @@ A futuristic Cyberpunk-themed Calculator with glowing neon visuals inspired by s
 🔹 Lightweight and fast
 
 
-🎨 Design
+🎨 DESIGN;
 
 The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring:
 
@@ -31,7 +31,9 @@ The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring
 
 ✨Soft lighting and animated effects
 
+
 🚀 Future Improvements
+
 
 📌Scientific calculator mode
 
