@@ -17,3 +17,30 @@ A futuristic Cyberpunk-themed Calculator with glowing neon visuals inspired by s
 🔹 Hidden Easter Egg (1 + =)
 
 🔹 Lightweight and fast
+
+
+🎨 Design
+
+The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring:
+
+✨Electric blue neon glow
+
+✨Dark futuristic background
+
+✨Minimalist button layout
+
+✨Soft lighting and animated effects
+
+🚀 Future Improvements
+
+📌Scientific calculator mode
+
+📌Keyboard support
+
+📌Calculation history
+
+📌Theme customization
+
+📌Sound effects
+
+📌Dark/Light theme toggle
