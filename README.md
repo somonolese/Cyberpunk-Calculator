@@ -31,6 +31,15 @@ The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring
 
 ✨Soft lighting and animated effects
 
+.
+
+.
+
+.
+
+.
+
+.
 
 🚀 Future Improvements
 
@@ -46,3 +55,13 @@ The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring
 📌Sound effects
 
 📌Dark/Light theme toggle
+
+🔗Link;
+https://futcalc-lmt2gq5t.manus.space/
+
+
+
+## 📌 Note
+
+This repository is created to showcase the live project. The current version is hosted on Manus AI.
+
