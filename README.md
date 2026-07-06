@@ -1,4 +1,4 @@
-<img width="1080" height="2400" alt="ca60617e-f14b-4902-b8c7-e2e380f2fa1c-1_all_4907" src="https://github.com/user-attachments/assets/58652ca6-40b1-4f9e-91a9-b6deba2095ff" />
+
 
 # Cyberpunk-Calculator (CALC)
 A futuristic Cyberpunk-themed Calculator with glowing neon visuals inspired by sci-fi interfaces. Designed to combine a modern cyber aesthetic with smooth and responsive calculator functionality.
@@ -36,7 +36,7 @@ The interface is inspired by futuristic HUDs and cyberpunk aesthetics, featuring
 .
 
 .
-
+<img width="1080" height="2400" alt="ca60617e-f14b-4902-b8c7-e2e380f2fa1c-1_all_4907" src="https://github.com/user-attachments/assets/58652ca6-40b1-4f9e-91a9-b6deba2095ff" />
 .
 
 .
